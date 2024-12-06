@@ -7,3 +7,5 @@ rottentomatoes/
 
 # Ignore ChromeDriver executable
 ./chromedriver.exe
+
+LICENSE.chromedriver
