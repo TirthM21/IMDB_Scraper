@@ -1,0 +1,9 @@
+# Ignore virtual environment
+.venv/
+# Ignore data folder
+data/
+# Ignore Rotten Tomatoes folder
+rottentomatoes/
+
+# Ignore ChromeDriver executable
+./chromedriver.exe
